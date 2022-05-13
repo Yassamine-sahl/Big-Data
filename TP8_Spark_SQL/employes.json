@@ -1,0 +1,7 @@
+[
+  {"id":1, "name": "Yassmin,", "phone": "0644773342", "salary": 20000.00, "age":21, "departement": "Informatique"},
+  {"id":2, "name": "Oumaima,", "phone": "0644773342", "salary": 30000.00, "age":23, "departement": "Informatique"},
+  {"id":3, "name": "Youssef,", "phone": "0644773342", "salary": 15000.00, "age":32, "departement": "Electricite"},
+  {"id":4, "name": "Youness,", "phone": "0644773342", "salary": 6000.00, "age":35, "departement": "Electricite"}
+]
+
